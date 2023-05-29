@@ -22,3 +22,5 @@ This repository contains some deep learning implementation using PyTorch.
 [GAN.ipynb](https://github.com/White-Devil09/Deep-Learning/blob/master/GAN.ipynb) : In this Notebook we generate anime faces from random noise. to run this Notebook please download [anime-faces](https://www.kaggle.com/datasets/splcher/animefacedataset/download?datasetVersionNumber=3) dataset and place in folder 'data'.
 
 [Transfer_learning.ipynb](https://github.com/White-Devil09/Deep-Learning/blob/master/Transfer_learning.ipynb) : In this Notebook we used pretrained ResNet34 model to train model instead of training from scartch.
+
+[Fashion_MNIST.ipynb](https://github.com/White-Devil09/Deep-Learning/blob/master/Fashion_MNIST.ipynb) : In this Notebook we classified fashion mnist dataset.
